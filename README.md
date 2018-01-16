@@ -10,7 +10,7 @@ After doing so, using a starter code from Udacity, we will extract the data into
 #### Enter new movie
 
 
-Add into the document
+Add into file _entertainment_center.py_ if you want to add new movies into the document
 ```
 movie.append(media.Movie("<movie_id>"))
 ```
@@ -26,5 +26,5 @@ entertainment_center.py
 
 ## Issues and Improvements
 
-* When our movie title is longer than 1 line, it breaks the html formating as the container size gets too large.
-* We can improve on the original template for the website.
+* When our movie title is longer than 1 line, it breaks the html formating as the container size gets too large
+* We can improve on the original template for the website
