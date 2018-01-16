@@ -15,13 +15,16 @@ Add into file _entertainment_center.py_ if you want to add new movies into the d
 movie.append(media.Movie("<movie_id>"))
 ```
 
-#### Command Line
+#### With the terminal:
 
+* Clone the directory
+* Navigate into the directory cd repository_name
+* Run python entertainment_center.py
 
-To get the program started to create an html page that lists my favorite movies run the command line on python
-```
-entertainment_center.py
-```
+#### With IDLE:
+
+* Open IDLE
+* In the menu bar click on Run -> Run Module or press F5 on your keyboard
 
 
 ## Issues and Improvements
