@@ -22,4 +22,3 @@ class Movie():
         self.poster_image_url = api_image + json_data["poster_path"]
         # Since multiple trailers are available,just choose the first one
         self.trailer_youtube_url = api_video + json_vid["results"][0]["key"]
-        
